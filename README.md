@@ -2,6 +2,10 @@
 
 This project is a web-based sentiment analysis tool developed with Django. It analyzes text input by the user to determine the sentiment behind the text (positive, neutral, or negative).
 
+![Initial config](./site_pic_initial.png)
+![After query config](./site_pic_post.png)
+
+
 ## Features
 
 - User-friendly web interface for submitting text.
