@@ -12,8 +12,6 @@ def home(request):
     if request.method == 'POST':
         text = request.POST.get('text')
         words = text.split()
-        print(text)
-
         results = sentiment_task(text)
 
        #print(results)
@@ -30,7 +28,6 @@ def home(request):
             score = round(result[0]['score'],2)
 
             word_sentiments.append((word, sentiment, score))
-        print(word_sentiments)
 
         # Use the sentiment_task pipeline to analyze the text
 
