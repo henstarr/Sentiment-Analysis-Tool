@@ -36,7 +36,7 @@ A step-by-step series of examples that tell you how to get a development env run
    ```
 3. Create virtual environment
     ```
-    cd sentiment-analysis-webapp
+    cd sentiment_project
     virtualenv venv
     source venv/bin/activate
     pip install -r requirements.txt
