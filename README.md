@@ -16,7 +16,7 @@ This project is a web-based sentiment analysis tool developed with Django. It an
 
 - **Django**: A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 - **Bootstrap**: For responsive UI design.
-- **html/css: For styling and creating static UI.
+- **html/css**: For styling and creating static UI.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
