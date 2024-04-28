@@ -45,4 +45,8 @@ A step-by-step series of examples that tell you how to get a development env run
     ```
 Now, visit http://127.0.0.1:8000/ in your web browser to see the application in action.
 
+###Acknowledgments
+CardiffNLP for their roBERTa NLP model.
+https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest
+
 
